@@ -1,4 +1,5 @@
 # loan-approval-prediction
+![](https://i.pinimg.com/736x/07/87/5b/07875b338ddab3b8e78a44622098caeb.jpg)
 ## Goal:
 In **Loan Approval Prediction** project, we are looking to design a model to predict whether an individual loan request will be approved or not. This prediction relies on analyzing multiple factors and information submitted by the applicant. The project evaluates variables such as **loan amount**, **tenure**, **CIBIL score**, **education**, **assets**, and other relevant features. Its primary goal is to understand the key factors influencing loan approval and develop a predictive model to assess the likelihood of approval for new applicants. Additionally, the project aims to improve customer service by prioritizing applicants with higher chances of loan approval.
 ## Dataset Dictionary:
